@@ -1,0 +1,22 @@
+{
+  "name": "loopback_trial",
+  "version": "1.0.0",
+  "description": "Loopback Playground Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelishrestha/loopback_trial.git"
+  },
+  "keywords": [
+    "Loopback"
+  ],
+  "author": "Kelina Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelishrestha/loopback_trial/issues"
+  },
+  "homepage": "https://github.com/kelishrestha/loopback_trial#readme"
+}
